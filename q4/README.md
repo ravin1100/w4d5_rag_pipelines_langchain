@@ -1,0 +1,1 @@
+# Statement: Intelligent Document Chunking for Enterprise Knowledge Management System
