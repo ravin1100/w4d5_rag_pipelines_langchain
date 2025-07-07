@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "text": "Apple announces new iPhone with revolutionary AI capabilities. The latest smartphone features advanced machine learning processors and neural engine for enhanced performance.",
+            "category": "Tech"
+        },
+        {
+            "text": "Google unveils breakthrough in quantum computing. Scientists achieve quantum supremacy with new processor design.",
+            "category": "Tech"
+        },
+        {
+            "text": "Microsoft releases new cloud computing platform for enterprise customers. Azure improvements focus on AI integration.",
+            "category": "Tech"
+        },
+        {
+            "text": "Stock market reaches record high as tech sector booms. S&P 500 and Nasdaq hit new milestones amid strong earnings reports.",
+            "category": "Finance"
+        },
+        {
+            "text": "Federal Reserve announces interest rate decision. Markets react to new monetary policy guidelines.",
+            "category": "Finance"
+        },
+        {
+            "text": "Cryptocurrency markets see major rally as Bitcoin surges. Digital assets gain mainstream adoption among institutional investors.",
+            "category": "Finance"
+        },
+        {
+            "text": "New cancer treatment shows promising results in clinical trials. Breakthrough therapy targets specific genetic mutations.",
+            "category": "Healthcare"
+        },
+        {
+            "text": "Medical researchers develop innovative approach to treating heart disease. Study shows significant improvement in patient outcomes.",
+            "category": "Healthcare"
+        },
+        {
+            "text": "Global health organization reports progress in vaccine distribution. Healthcare workers reach remote communities.",
+            "category": "Healthcare"
+        },
+        {
+            "text": "Champions League final ends in dramatic penalty shootout. Underdog team claims victory in historic match.",
+            "category": "Sports"
+        },
+        {
+            "text": "Olympic athlete breaks world record in track and field event. Years of training culminate in golden performance.",
+            "category": "Sports"
+        },
+        {
+            "text": "NBA superstar signs record-breaking contract with new team. Transfer window creates major shifts in league dynamics.",
+            "category": "Sports"
+        },
+        {
+            "text": "Senate passes landmark climate change legislation. New policies aim to reduce carbon emissions significantly.",
+            "category": "Politics"
+        },
+        {
+            "text": "International summit addresses global security concerns. World leaders discuss diplomatic solutions to ongoing conflicts.",
+            "category": "Politics"
+        },
+        {
+            "text": "Major political reform bill gains bipartisan support. Lawmakers reach compromise on key issues.",
+            "category": "Politics"
+        },
+        {
+            "text": "Hollywood stars gather for Academy Awards ceremony. Surprise wins and emotional speeches mark the evening.",
+            "category": "Entertainment"
+        },
+        {
+            "text": "Popular streaming series breaks viewing records. Critics praise innovative storytelling and performances.",
+            "category": "Entertainment"
+        },
+        {
+            "text": "Music festival announces stellar lineup for summer event. Top artists from multiple genres set to perform.",
+            "category": "Entertainment"
+        }
+    ]
+} 

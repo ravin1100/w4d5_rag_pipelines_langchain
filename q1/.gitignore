@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Model files and caches
+*.model
+*.pkl
+*.h5
+.cache/
+cached_*
+
+# Logs
+*.log
+logs/
+
+# Local development
+.DS_Store
+.coverage
+htmlcov/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Downloaded model files
+word2vec-google-news-300.model*
+bert-base-uncased/
+all-MiniLM-L6-v2/ 
